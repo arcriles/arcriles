@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### 🤔  I’m looking to collaborate on with tflite implementation on mobile apps, if you are interested please contact me on
+### 🤔  I’m looking to collaborate on my side project about using tflite implementation on mobile apps, if you are interested please contact me on
 > arcrilest@outlook.com
   
 <!--
