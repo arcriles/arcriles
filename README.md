@@ -1,8 +1,8 @@
 # Hi there 👋
 
-### 🤔  I’m looking to collaborate on my side project about using tflite implementation on mobile apps, if you are interested please contact me on
-> arcrilest@outlook.com
-  
+this is my Github, i have some projects, if you are interested, pls send me an email at
+arcrilest@outlook.com
+
 <!--
 **arcriles/arcriles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
