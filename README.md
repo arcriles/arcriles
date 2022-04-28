@@ -1,6 +1,6 @@
 # Hi there 👋
 
-this is my Github, i have some projects, if you are interested, pls send me an email at
+_here is my email:_
 arcrilest@outlook.com
 
 <!--
