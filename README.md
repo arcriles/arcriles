@@ -3,7 +3,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/chill_arcriles/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arcriles/) 
 
-(![banner_chill](https://user-images.githubusercontent.com/30470009/181768298-2cd3cdf9-0de3-42dc-aba8-d7063755bafe.png)
+![banner](https://user-images.githubusercontent.com/30470009/181768298-2cd3cdf9-0de3-42dc-aba8-d7063755bafe.png)
 )
 
 
