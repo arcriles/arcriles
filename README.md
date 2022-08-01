@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/chill_arcriles/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arcriles/) 
 
 <Div allign = "center">
-	(https://user-images.githubusercontent.com/30470009/182111047-188647ca-d9dc-4bc7-9426-0f1ae22e6a66.png)
+https://user-images.githubusercontent.com/30470009/182111047-188647ca-d9dc-4bc7-9426-0f1ae22e6a66.png
 </div>
 
 
