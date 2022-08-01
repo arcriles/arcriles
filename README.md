@@ -17,20 +17,38 @@ Hello, my name is Arcriles Willyam Thungriallu. I am 20 years old and interested
 	</ul>	
 </details>
 
+<details>
+  <summary><b>My Recent Projects Projects</b></summary>
 
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/arcriles/TugasAkhirAI"><b> Face Detection</b></a></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/arcriles/JoPhoto"><b>JoPhoto</b></a></td>
+      </tr>
+      <tr>
+	      <td><a href="http://bookinghotel.epizy.com/?i=1"><b>BOOK A HOTEL</b></a></td>
+      </tr>
+      <tr>
+	      <td><a href="https://pemwebrental.000webhostapp.com/"><b>GAME RENTALS</b></a></td>
+      </tr>
+       <tr>
+	      <td><a href="https://umn.itch.io/stranded"><b>Stranded</b></a></td>
+      </tr>
+       <tr>
+	      <td><a href="https://arcriles.itch.io/idle-slayer"><b>Idle Slayer </b></a></td>
+      </tr>
+      
+    </tbody>
+  </table>
+  <br />
+</details>
  
-
-<!--
-**arcriles/arcriles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
--  🤔 I’m looking for help...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
