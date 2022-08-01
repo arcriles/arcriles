@@ -47,7 +47,7 @@ Hello, my name is Arcriles Willyam Thungriallu. I am 20 years old and interested
 	      <td><a href="https://arcriles.itch.io/idle-slayer"><b>Idle Slayer </b></a></td>
       </tr>
       
-    </tbody>
+   </tbody>
   </table>
   <br />
 </details>
