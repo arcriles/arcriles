@@ -35,22 +35,22 @@ Hello, my name is Arcriles Willyam Thungriallu. I am 20 years old and interested
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/arcriles/TugasAkhirAI"><b> Face Detection</b></a></td>
+	     <td><a href="https://github.com/arcriles/TugasAkhirAI"><b> Face Detection</b></a></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/arcriles/JoPhoto"><b>JoPhoto</b></a></td>
+	     <td><a href="https://github.com/arcriles/JoPhoto"><b>JoPhoto</b></a></td>
       </tr>
       <tr>
-	      <td><a href="http://bookinghotel.epizy.com/?i=1"><b>BOOK A HOTEL</b></a></td>
+	     <td><a href="http://bookinghotel.epizy.com/?i=1"><b>BOOK A HOTEL</b></a></td>
       </tr>
       <tr>
-	      <td><a href="https://pemwebrental.000webhostapp.com/"><b>GAME RENTALS</b></a></td>
+	     <td><a href="https://pemwebrental.000webhostapp.com/"><b>GAME RENTALS</b></a></td>
       </tr>
        <tr>
-	      <td><a href="https://umn.itch.io/stranded"><b>Stranded</b></a></td>
+	     <td><a href="https://umn.itch.io/stranded"><b>Stranded</b></a></td>
       </tr>
        <tr>
-	      <td><a href="https://arcriles.itch.io/idle-slayer"><b>Idle Slayer </b></a></td>
+	     <td><a href="https://arcriles.itch.io/idle-slayer"><b>Idle Slayer </b></a></td>
       </tr>
       
    </tbody>
