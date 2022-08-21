@@ -3,7 +3,7 @@
 
 <div align="center">
 
-	### Add me
+### Add me
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/chill_arcriles/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arcriles/) 
 
 </div>
