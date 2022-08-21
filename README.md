@@ -3,9 +3,9 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/chill_arcriles/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arcriles/) 
 
-
+<div align="center">
 ![Screenshot 2022-06-14 120830](https://user-images.githubusercontent.com/30470009/182111691-5c495c67-58cc-4c91-a16c-f63903a56cca.png)
-
+</div>
 
 
 ## about me
