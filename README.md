@@ -22,7 +22,7 @@ Hello, my name is Arcriles Willyam Thungriallu. I am 20 years old and interested
   <br />
   <summary><b>⚙️ My Hardware</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Pop OS</li>
+  	    <li><b>OS:</b> Arch Linux (im using arch btw 😃)</li>
 	    <li><b>Laptop: </b> Asus TUF A15 Ryzen 5 4800H</li>
   	    <li><b>Browser: </b> Microsoft Edge</li>
 	    <li><b>Code Editor:</b> Visual Studio Code</li>
