@@ -1,5 +1,5 @@
 <h1  align="center">Hi
-👋 I'm Arcriles "Chill" Thungriallu</h1>
+👋 I'm Arcriles "Chill"</h1>
 
 <div align="center">
 
