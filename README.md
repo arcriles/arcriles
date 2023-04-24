@@ -66,7 +66,7 @@ Hello, my name is Arcriles Willyam Thungriallu. I am 20 years old and interested
  
 <details>	
   <br />
-  <summary><b>⚙️ Ongoing Projects</b></summary>
+  <summary><b> Ongoing Projects</b></summary>
   	<ul>
   	    <li><b>HTB writeups</b> my personal writeups for my CV</li>
   	    <li><b>My own Website</b> my personal Website</li>
