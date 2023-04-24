@@ -15,7 +15,7 @@
 
 
 ## about me
-Hello, my name is Arcriles Willyam Thungriallu. I am 20 years old and interested in game development. I am an Undergraduate Informatics student of Multimedia Nusantara University.
+Hello, my name is Arcriles. I am 20 years old and interested in game development. I am an Undergraduate Informatics student and very curious on everything.
 
 
 <details>	
