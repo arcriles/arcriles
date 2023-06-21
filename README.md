@@ -70,6 +70,6 @@ Hello, my name is Arcriles. I am 20 years old and interested in game development
   	<ul>
   	    <li><b>HTB writeups</b> my personal writeups for my CV</li>
   	    <li><b>My own Website</b> my personal Website</li>
-  	    <li><b>Blockchain Website</b> Website that implements Blockchain and Cryptocurrency</li>
+  	    // <li><b>Blockchain Website</b> Website that implements Blockchain and Cryptocurrency</li>
 	</ul>	
 </details>
