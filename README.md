@@ -22,7 +22,7 @@ Hello, my name is Arcriles. I am 20 years old and interested in game development
   <br />
   <summary><b>⚙️ My Hardware</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Linux </li>
+  	    <li><b>OS:</b>Arch Linux </li>
 	    <li><b>Laptop: </b> Asus TUF A15 Ryzen 5 4800H</li>
   	    <li><b>Browser: </b> Microsoft Edge</li>
 	    <li><b>Code Editor:</b> Visual Studio Code</li>
