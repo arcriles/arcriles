@@ -1,6 +1,10 @@
 <div align="center">
+  ![Banner Alt Text](banner_chill.jpg)
+
+</div>
 
 # 💫About Me :
+
 Hey there! I'm Arcriles (mostly known as 4RC):
 
 - 👨‍💻 Tech Lead & Software Developer focused on cybersecurity (always learning – no "patch" for curiosity!)
@@ -9,7 +13,7 @@ Hey there! I'm Arcriles (mostly known as 4RC):
 - 🚀 Leading projects, breaking things, and reinstalling Linux
 - 🤖 Skilled at using generative AI tools.
 
-
+<div align="center">
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chill_arcriles) 
 
