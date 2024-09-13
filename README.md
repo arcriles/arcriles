@@ -1,11 +1,14 @@
+
+
 # 💫About Me :
-Hey there! I'm Arcriles Willyam:
+Hey there! I'm Arcriles (mostly known as 4RC):
 
 👨‍💻 Tech Lead & Software Developer focused on cybersecurity (always learning – no "patch" for curiosity!)
 🔒 Passionate about securing digital systems, but still dabbling in software dev, web dev, & game design
 🐧 Linux fan (I use Linux, because I'm bored looking at the window 😉)
 🚀 Leading projects, breaking things, and reinstalling Linux
 🤖 Skilled at using generative AI tools.
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chill_arcriles) 
@@ -20,8 +23,7 @@ Hey there! I'm Arcriles Willyam:
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=arcriles&icon=0&color=12)](https://visitcount.itsvg.in)
