@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # 💫About Me :
 Hey there! I'm Arcriles (mostly known as 4RC):
