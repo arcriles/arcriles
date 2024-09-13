@@ -14,6 +14,7 @@ Hey there! I'm Arcriles (mostly known as 4RC):
 - 🤖 Skilled at using generative AI tools.
 
 <div align="center">
+  
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chill_arcriles) 
 
@@ -23,8 +24,6 @@ Hey there! I'm Arcriles (mostly known as 4RC):
 
 
 # 📊GitHub Stats :
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arcriles&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/><br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcriles&theme=dark&hide_border=true"/><br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcriles&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
