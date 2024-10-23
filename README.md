@@ -7,7 +7,7 @@
 
 Hey there! I'm Arcriles (mostly known as 4RC):
 
-- 👨‍💻 Tech Lead & Software Developer focused on cybersecurity (always learning – no "patch" for curiosity!)
+- 👨‍💻 Focused on cybersecurity (always learning – no "patch" for curiosity!)
 - 🔒 Passionate about securing digital systems, but still dabbling in software dev, web dev, & game design
 - 🐧 Linux fan (I use Linux, because I'm bored looking at the window 😉)
 - 🚀 Leading projects, breaking things, and reinstalling Linux
