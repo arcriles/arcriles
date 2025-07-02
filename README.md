@@ -18,8 +18,8 @@ Hey there! I'm Arcriles (mostly known as 4RC):
 
 
 
-# 📊GitHub Stats :
-  <img src="https://github-readme-stats.vercel.app/api?username=arcriles&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/><br/> 
+
+  <img src="https://github-readme-stats.vercel.app/api?username=arcriles&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
 </div>
 
