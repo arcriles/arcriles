@@ -19,4 +19,3 @@ Hey there! I'm Arcriles (mostly known as 4RC):
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=arcriles&icon=0&color=12)](https://visitcount.itsvg.in)
