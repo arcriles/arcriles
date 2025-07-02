@@ -13,15 +13,11 @@ Hey there! I'm Arcriles (mostly known as 4RC):
 - 🚀 Leading projects, breaking things, and reinstalling Linux
 - 🤖 Skilled at using generative AI tools.
 
-<div align="center">
-  
 
 
 
+![arcriles's Stats](https://github-readme-stats.vercel.app/api?username=arcriles&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=arcriles&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-</div>
 
 ---
 
