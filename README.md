@@ -12,11 +12,10 @@ Hey there! I'm Arcriles (mostly known as 4RC):
 - 🐧 Linux fan (I use Linux, because I'm bored looking at the window 😉)
 - 🚀 Leading projects, breaking things, and reinstalling Linux
 - 🤖 Skilled at using generative AI tools.
-
+---
 
 
 ![arcriles's Stats](https://github-readme-stats.vercel.app/api?username=arcriles&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
-
 
 ---
 
