@@ -4,7 +4,7 @@
 </div>
 
 # 💫About Me :
----
+
 Hey there! I'm Arcriles (mostly known as 4RC):
 
 - 👨‍💻 Focused on cybersecurity (always learning – no "patch" for curiosity!)
@@ -19,4 +19,4 @@ Hey there! I'm Arcriles (mostly known as 4RC):
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=arcriles&icon=0&color=12)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=arcriles&icon=0&color=12)](https://visitcount.itsvg.in)
