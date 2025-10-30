@@ -10,6 +10,10 @@ Hey there! I'm Arcriles:
 - 🚀 Leading projects, breaking things, and reinstalling Linux
 - 🤖 Skilled at using generative AI tools.
 
-![arcriles's Stats](https://github-readme-stats.vercel.app/api?username=arcriles&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  ![arcriles's Stats](https://github-readme-stats.vercel.app/api?username=arcriles&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+</p>
 
-![arcriles's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arcriles&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  ![arcriles's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arcriles&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+</p>
