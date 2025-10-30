@@ -12,8 +12,6 @@ Hey there! I'm Arcriles:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arcriles&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="arcriles's Stats" />
-</p>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcriles&theme=graywhite&show_icons=true&hide_border=true&layout=compact" alt="arcriles's Top Languages" />
 </p>
